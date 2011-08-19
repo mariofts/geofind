@@ -1,0 +1,4 @@
+.DS_Store
+apache-tomcat-7.0.20/**/*
+src/main/webapp/WEB-INF/lib/**/*
+
