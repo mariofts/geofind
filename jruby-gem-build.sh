@@ -26,10 +26,6 @@ echo "building jar..."
 
 #jar uf $VRAPTOR_JAR -C $META_TEMP .
 
-
 echo 'removing temp gem files...'
 #rm -r $GEM_TEMP
 #rm -r $META_TEMP
-
-
-
