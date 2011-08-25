@@ -51,4 +51,3 @@ rm -r $META_TEMP
 echo "restoring jruby-jar"
 
 mv "$JRUBY_JAR.bak" $JRUBY_JAR 
-
